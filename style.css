@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.info {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center; /* Додаємо вирівнювання тексту по центру */
+}
